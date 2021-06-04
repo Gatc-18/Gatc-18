@@ -14,12 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gustavo 🚀
-<details open>
- <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+my;Github+Stats%3A"> </summary>  
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Gatc-18&show_icons=true&count_private=true&theme=react&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Gatc-18&theme=react&line_height=25&langs_count=3">
-</p>
-</details>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gatc-18)](https://git.io/streak-stats)
