@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gustavo 🚀
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Gustavo:cactus:
 <details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+my;Github+Stats%3A"> </summary>  
 <br>
